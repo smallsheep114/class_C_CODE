@@ -1,0 +1,4 @@
+﻿  order.c
+D:\class_code\第三章实操\第三章实操\order.c(356,19): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\class_code\第三章实操\第三章实操\order.c(352,1): warning C4305: “初始化”: 从“double”到“float”截断
+  第三章实操.vcxproj -> D:\class_code\第三章实操\x64\Debug\第三章实操.exe
