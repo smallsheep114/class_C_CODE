@@ -1,0 +1,3 @@
+﻿  operate_file.c
+D:\class_code\第十章实操\第十章实操\operate_file.c(229,25): warning C4133: “函数”: 从“char [14]”到“FILE *”的类型不兼容
+  第十章实操.vcxproj -> D:\class_code\第十章实操\x64\Debug\第十章实操.exe

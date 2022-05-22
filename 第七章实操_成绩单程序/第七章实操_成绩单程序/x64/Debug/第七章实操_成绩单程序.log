@@ -1,0 +1,3 @@
+﻿  score_gather.c
+D:\class_code\第七章实操_成绩单程序\第七章实操_成绩单程序\score_gather.c(172,14): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+  第七章实操_成绩单程序.vcxproj -> D:\class_code\第七章实操_成绩单程序\x64\Debug\第七章实操_成绩单程序.exe

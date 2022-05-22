@@ -1,0 +1,3 @@
+﻿  practice.c
+D:\class_code\第七章实操\第七章实操\practice.c(629,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  第七章实操.vcxproj -> D:\class_code\第七章实操\x64\Debug\第七章实操.exe
